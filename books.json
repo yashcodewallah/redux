@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "63d69c0418d7f4ebb1f9285f"
+  },
+  "title": "The Ways of Kings",
+  "author": "Brandon singh",
+  "rating": 9,
+  "pages": 400,
+  "genres": [
+    "fanstasy"
+  ],
+  "reviews": [
+    {
+      "name": "yashi",
+      "body": "great book!!"
+    },
+    {
+      "name": "saurabh",
+      "body": "kamaal ho"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d6b137233a06f35b7f70d7"
+  },
+  "author": "yash sharma",
+  "rating": 10,
+  "title": "the way of real king",
+  "pages": 500,
+  "genres": [
+    "fantasy",
+    "naughty"
+  ],
+  "reviews": [
+    {
+      "name": "swati",
+      "body": "you are good!"
+    },
+    {
+      "name": "kunal",
+      "body": "hehehaha hagasivcyqwv"
+    }
+  ]
+}]
